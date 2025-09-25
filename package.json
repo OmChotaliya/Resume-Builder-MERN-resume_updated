@@ -1,0 +1,12 @@
+{
+  "name": "resume-builder-mern-resume_updated",
+  "version": "1.0.0",
+  "description": "Resume Builder is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create and manage their resumes online, providing a streamlined interface for adding personal information, education history, work experience, and skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
